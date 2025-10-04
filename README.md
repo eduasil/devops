@@ -14,4 +14,4 @@ Este projeto foi desenvolvido com:
 - Terraform
 - AWS
 - Azure
-
+- GCP
